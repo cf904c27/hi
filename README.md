@@ -1,1 +1,1 @@
-# Python Tutorial系列的教材
+# Python Tutorial系列教材
