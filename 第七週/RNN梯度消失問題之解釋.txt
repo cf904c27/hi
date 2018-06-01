@@ -1,0 +1,6 @@
+RNN梯度消失和爆炸的原因
+https://zhuanlan.zhihu.com/p/28687529
+
+
+LSTM如何解決梯度消失的問題
+https://zhuanlan.zhihu.com/p/28749444
